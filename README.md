@@ -27,4 +27,4 @@ Install the apk file in your phone.
 
 * **[Sahib Khan](https://github.com/sahib-khan)**
 * **[Shivam Kumar](https://github.com/shivamkr143)**
-* **[Abhinav Mishra](https://github.com/kapil-goyal)**
+* **[Abhinav Mishra](https://github.com/abmishra1)**
