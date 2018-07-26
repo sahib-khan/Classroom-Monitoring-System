@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "678537538171",
+    "firebase_url": "https://classroom-49b01.firebaseio.com",
+    "project_id": "classroom-49b01",
+    "storage_bucket": "classroom-49b01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678537538171:android:288ed0ef5838572d",
+        "android_client_info": {
+          "package_name": "com.example.sahib.classroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678537538171-bj4nsnqdffe77tslhoosjikr6sam2ri2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5NUgL04mRSbZodWtDolIC9XoRTxw6Xao"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678537538171:android:6bd051b89801c251",
+        "android_client_info": {
+          "package_name": "com.example.sahib.student"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678537538171-bj4nsnqdffe77tslhoosjikr6sam2ri2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5NUgL04mRSbZodWtDolIC9XoRTxw6Xao"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
